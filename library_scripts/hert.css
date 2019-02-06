@@ -1,0 +1,133 @@
+/* Website template by freewebsitetemplates.com */
+/*------------------------- Layout styles ------------------------*/ 
+html{
+	background:url(bg-body-.jpg)   repeat-x;
+
+}
+body{
+	margin: 0;
+	background:url(bg-body0.jpg) fixed repeat-x left bottom;
+}
+ a{
+	text-decoration:none;
+	color: #0B0B0B;
+}
+
+ a.hover{
+	text-decoration:underline;
+}
+
+/*-------------------------	Header --------------------------*/
+.header{
+	width:auto;
+	margin:0 auto;
+}
+.header div{
+	max-width:960px;
+	margin:0 auto;
+	overflow:hidden;
+	position:relative;
+}
+.header div a#logo{
+	display:block;
+	height:110px;
+	width:254px;
+	float:left;
+}
+.header div a#logo img{
+	border:0;
+}
+.header div div.navigation{
+	float:right;
+	overflow:hidden;
+	height:10px;
+	width:auto;
+	margin:0;
+}
+.header div div.navigation ul.first{
+	background:url(bg-top-n.png) no-repeat;
+	height:30px;
+	padding:0 0 0 21px;
+}
+.header div div.navigation ul.first li{
+	background:url(bg-top-o.png);
+}
+.header div div.navigation ul li.first a{
+	border:0;
+}
+.header div div.navigation ul{
+	list-style:none;
+	padding:0;
+	margin:0;
+	float:left;
+}
+.header div div.navigation ul li{
+	float:left;
+	background:url(bg-top-p.png);
+	height:30px;
+}
+.header div div.navigation ul li a:hover,.header div div.navigation ul.first li.selected a,
+.body .content div.blog div.paging ul li a:hover,.header div div.navigation ul li.selected a{
+	color:#ef0288;
+}
+
+.header div form.search{
+	position:absolute;
+	right:0;
+	bottom:10px;
+}
+.header div form.search input{
+	background: url(interfac.gif) no-repeat 0 -90px;
+	width:324px;
+	height:auto;
+	border:0;
+	float:left;
+	padding:11px 0 11px 40px;
+	color:#a1a1a1;
+	font-size:15px;
+}
+.header div form.search input#submit{
+	background:url(interfac.gif) no-repeat 0 -150px;
+	width:auto;
+	height:24px;
+	position:relative;
+	margin:7px 0 0 -355px;
+	font-size:14px;
+	padding:0 0 0 30px;
+	
+}
+.header div#navigation{
+	height:25px;
+	background:url(bg-navig.gif) repeat-x;
+	width:auto;
+}
+
+
+/*-------------------------	Body --------------------------*/
+.body{
+	max-width:960px;
+	margin:5px auto;
+
+	position:relative;
+}
+
+
+
+
+
+
+
+
+.body .content{
+background:url(whitetrans.png) ;
+}
+
+
+
+/*-------------------------	Footer --------------------------*/
+.footer{
+	padding:10px 0 10px;
+
+}
+
+

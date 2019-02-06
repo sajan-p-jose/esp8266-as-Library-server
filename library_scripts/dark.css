@@ -1,0 +1,71 @@
+body {
+
+        background:#000034;
+ 	font: 18px ;
+	padding: 10px;
+	margin: 0px;
+	color: white;
+
+}
+
+input {border-color:blue ; background-color:transparent;   border-width:1pt ;  border-style:solid ; font-size:18px;  color: white; }
+input:focus  { border-color:red ;   border-width:2pt ; }
+
+input.aa { background-color:transparent;   border-style:outset ;  -moz-border-radius:10px;  color:yellow;  }
+
+input.submit {  background-color:transparent;  border-style:outset ;  -moz-border-radius:10px;    }
+
+input.aa:hover {color: lightred; background-color:transparent;  }
+input.aa:checked  { background-color:red; }
+
+textarea { border-color:blue ; border-width:1pt ;  border-style:solid ; color: white; font-size:20px;  background-color:transparent;   }   
+textarea:focus  {border-color:red ;   border-width:2pt ;  }
+
+table {
+font-family:verdana,sans-serif;
+font-size:18px;
+}
+table.rt {  background-color:transparent;    -moz-border-radius:50 50 0 0;  border-width:1pt ;  border-style:solid ;}
+table.rb {  background-color:transparent;    -moz-border-radius:0 0 50 50 ; border-width:1pt ;  border-style:solid ;}
+table.nn { color:yello ; background-color:transparent;   -moz-border-radius: 20 ;   }
+table.list  {   border-color:red ;  border-top-width:0pt ;  border-right-width:0pt ; border-left-width:0pt ;  font-weight:500;  }
+table.detail  {   border-color:red ;  border-top-width:0pt ;  border-right-width:0pt ; border-left-width:0pt ;   }
+
+
+a {text-decoration: none;color:white; clear:left ;font-size:18px; }
+a:hover {text-decoration: underline;color:lightred; }
+a:active {color:yellow;}
+a:focus {color:lightyellow;}
+
+a.bb {text-decoration: none;color:lightgreen; font-size:8pt; }
+a.bb:hover {text-decoration: underline;color: red; font-size:larger; }
+
+h1 {font-size:150% ;}
+hr {border-width:1px;color:gray; }
+li {font-size:120% ;font-weight:bold;}
+
+
+
+button {
+font-size:18px;
+}
+
+select{  border-width:1pt ;font-size:18px;   }
+
+input[type="checkbox"]  {
+  
+    width:22px;
+    height:22px;
+    margin:4px 4px 0 0;
+    background:black ;
+    
+}
+input[type="radio"]  {
+  
+    width:22px;
+    height:22px;
+    margin:4px 4px 0 0;
+    background:black ;
+    
+}
+

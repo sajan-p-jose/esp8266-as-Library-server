@@ -1,0 +1,923 @@
+{ "A":"k:22" , "B":"Hermeneutics,Post Modernism" , "C":"-" , "D":"K:22" }
+
+,{ "A":"CST" , "B":"CST Publications" , "C":"CST" , "D":"CST" }
+
+,{ "A":"K:27" , "B":"Aesthetics" , "C":"Philosohpy of Art" , "D":"K:27" }
+
+,{ "A":"T" , "B":"Literature" , "C":"-" , "D":"-" }
+
+,{ "A":"K:4" , "B":"Theodicy" , "C":"Natural Theology" , "D":"K:4" }
+
+,{ "A":"K:6 " , "B":"Ethics" , "C":"Moral Philosophy" , "D":"K:6" }
+
+,{ "A":"A" , "B":"Sacred Scripture" , "C":"-" , "D":"A" }
+
+,{ "A":"K:12" , "B":"Texts" , "C":"-" , "D":"K:12" }
+
+,{ "A":"L:2" , "B":"Medieval" , "C":"-" , "D":"L:1" }
+
+,{ "A":"F" , "B":"CHURCH HISTORY" , "C":"-" , "D":"-" }
+
+,{ "A":"G" , "B":"BIOGRAPHIES" , "C":"-" , "D":"-" }
+
+,{ "A":"H" , "B":"CATECHETICS" , "C":"-" , "D":"-" }
+
+,{ "A":"J" , "B":"PASTORAL THEOLGY" , "C":"-" , "D":"-" }
+
+,{ "A":"L" , "B":"HISTORY OF PHILOSOPHY" , "C":"-" , "D":"-" }
+
+,{ "A":"N" , "B":"SOCIOLOGY" , "C":"-" , "D":"-" }
+
+,{ "A":"K:2" , "B":"Logic" , "C":"-" , "D":"K:2" }
+
+,{ "A":"Q" , "B":"REFERENCE BOOKS" , "C":"-" , "D":"-" }
+
+,{ "A":"R" , "B":"RELIGION" , "C":"-" , "D":"-" }
+
+,{ "A":"S" , "B":"HISTORY" , "C":"-" , "D":"-" }
+
+,{ "A":"V" , "B":"LITURGY" , "C":"-" , "D":"-" }
+
+,{ "A":"W" , "B":"SKILLS" , "C":"-" , "D":"-" }
+
+,{ "A":"X" , "B":"ART" , "C":"-" , "D":"-" }
+
+,{ "A":"Y" , "B":"YOUTH" , "C":"-" , "D":"-" }
+
+,{ "A":"H:9" , "B":"Salvation History" , "C":"-" , "D":"H:9" }
+
+,{ "A":"L:3" , "B":"Modern" , "C":"-" , "D":"L:3" }
+
+,{ "A":"L:5" , "B":"History in General" , "C":"-" , "D":"L:5" }
+
+,{ "A":"M" , "B":"INDIAN PHILOSOPHY" , "C":"-" , "D":"M" }
+
+,{ "A":"SD" , "B":"-" , "C":"Slides" , "D":"-" }
+
+,{ "A":"M:1" , "B":"Introduction to Indian Philosophy" , "C":"-" , "D":"M:1" }
+
+,{ "A":"m:13" , "B":"Nyaya, Vaiseshika" , "C":"-" , "D":"m:13" }
+
+,{ "A":"m:15" , "B":"Samkhya" , "C":"-" , "D":"m:15" }
+
+,{ "A":"M:2" , "B":"History of Indian Philosophy" , "C":"-" , "D":"M:2" }
+
+,{ "A":"m:20" , "B":"Contemporary Indian Philosophy" , "C":"Science and Hinduism" , "D":"m:20" }
+
+,{ "A":"M:3" , "B":"Vedas" , "C":"-" , "D":"M:3" }
+
+,{ "A":"m:5" , "B":"Bhagavadgeetha" , "C":"-" , "D":"m:5" }
+
+,{ "A":"M:9" , "B":"Epices and Puranass" , "C":"-" , "D":"M:9" }
+
+,{ "A":"N:12" , "B":"Co-operation" , "C":"-" , "D":"N:12" }
+
+,{ "A":"N:14" , "B":"Industrialization" , "C":"-" , "D":"N:14" }
+
+,{ "A":"N:15" , "B":"Culture" , "C":"-" , "D":"N:15" }
+
+,{ "A":"N:16" , "B":"Associations and Organisations" , "C":"-" , "D":"N:16" }
+
+,{ "A":"n:17" , "B":"Society and Religion" , "C":"-" , "D":"n:17" }
+
+,{ "A":"n:6" , "B":"Readings in Christian Sociology" , "C":"-" , "D":"n:6" }
+
+,{ "A":"N:5" , "B":"Communism" , "C":"-" , "D":"N:5" }
+
+,{ "A":"n:8" , "B":"Work" , "C":"Labour" , "D":"n:8" }
+
+,{ "A":"K:26 " , "B":"Philosophy Of Science" , "C":"-" , "D":"-" }
+
+,{ "A":"A:12" , "B":"Catholic Epistles" , "C":"-" , "D":"A:12" }
+
+,{ "A":"CST:1" , "B":"Charism Documents" , "C":"CST" , "D":"CST:1" }
+
+,{ "A":"CST:2" , "B":"Constitution and Directory" , "C":"CST" , "D":"CST:2" }
+
+,{ "A":"CST:3" , "B":"Reports" , "C":"CST" , "D":"CST:3" }
+
+,{ "A":"CST:4" , "B":"Founder" , "C":"CST" , "D":"CST:4" }
+
+,{ "A":"CN" , "B":"Class Notes" , "C":"Study Aids" , "D":"CN" }
+
+,{ "A":"CST:5" , "B":"Formation" , "C":"CST" , "D":"CST:5" }
+
+,{ "A":"CST:6" , "B":"News Bullettin" , "C":"CST" , "D":"CST:6" }
+
+,{ "A":"CST:7" , "B":"Souvenirs" , "C":"CST" , "D":"CST:" }
+
+,{ "A":"P" , "B":"SCIENCE" , "C":"-" , "D":"P" }
+
+,{ "A":"P:17" , "B":"Cultural Ethinology" , "C":"-" , "D":"P:17" }
+
+,{ "A":"A:1" , "B":"Bible" , "C":"-" , "D":"A:1" }
+
+,{ "A":"P:23" , "B":"Astronomy and Astrology" , "C":"-" , "D":"P:23" }
+
+,{ "A":"P:29" , "B":"Palmistry" , "C":"-" , "D":"P:29" }
+
+,{ "A":"QA:1" , "B":"Sacred Scripture" , "C":"-" , "D":"QA:1" }
+
+,{ "A":"A:7" , "B":"Mathew" , "C":"-" , "D":"A:7" }
+
+,{ "A":"B:18" , "B":"Lay Apostlate" , "C":"-" , "D":"B:18" }
+
+,{ "A":"B:19" , "B":"Readings in Theology" , "C":"-" , "D":"B:19" }
+
+,{ "A":"B:21" , "B":"Texts" , "C":"-" , "D":"B:21" }
+
+,{ "A":"B:23" , "B":"Missiology" , "C":"-" , "D":"B:23" }
+
+,{ "A":"B:25" , "B":"Indian Theology" , "C":"-" , "D":"B:25" }
+
+,{ "A":"B:26" , "B":"Liberation Theology" , "C":"-" , "D":"B:26" }
+
+,{ "A":"B:3" , "B":"Trinity" , "C":"-" , "D":"B:3" }
+
+,{ "A":"B:32" , "B":"Catholic Theology" , "C":"-" , "D":"B:32" }
+
+,{ "A":"B:4" , "B":"Eucharist" , "C":"-" , "D":"B:4" }
+
+,{ "A":"B:7" , "B":"Penence and the Anointing of the Sick " , "C":"-" , "D":"B:7" }
+
+,{ "A":"B:6" , "B":"Sacrament in General" , "C":"-" , "D":"B:6" }
+
+,{ "A":"B:5" , "B":"Grace" , "C":"-" , "D":"B:5" }
+
+,{ "A":"k:14" , "B":"Marxism" , "C":"-" , "D":"K:14" }
+
+,{ "A":"B:8" , "B":"Baptism" , "C":"-" , "D":"B:8" }
+
+,{ "A":"B:9" , "B":"Confirmation" , "C":"-" , "D":"B:9" }
+
+,{ "A":"B:31" , "B":"Angelogy" , "C":"-" , "D":"B:31" }
+
+,{ "A":"A:8" , "B":"Mark" , "C":"-" , "D":"A:8" }
+
+,{ "A":"A:9" , "B":"Luke and Acts" , "C":"-" , "D":"A:9" }
+
+,{ "A":"AD" , "B":"Cassettes" , "C":"Audio " , "D":"AD" }
+
+,{ "A":"C:2" , "B":"Readings in Moral Theology" , "C":"-" , "D":"C:2" }
+
+,{ "A":"C:4 " , "B":"Marriage" , "C":"Family Life" , "D":"C:4" }
+
+,{ "A":"C:6" , "B":"Christian Ethics" , "C":"-" , "D":"C:6" }
+
+,{ "A":"CN:1" , "B":"General Ethics" , "C":"" , "D":"CN:1" }
+
+,{ "A":"K:16" , "B":"Comparative Philosophy" , "C":"-" , "D":"K:16" }
+
+,{ "A":"CN:11" , "B":"Philosophy of Man" , "C":"-" , "D":"CN:11" }
+
+,{ "A":"CN: 12" , "B":"Philosophy of Being" , "C":"-" , "D":"CN:12" }
+
+,{ "A":"CN:13" , "B":"Philosophy of God" , "C":"-" , "D":"CN:12" }
+
+,{ "A":"C:7" , "B":"Commandments" , "C":"Commandments" , "D":"C:7" }
+
+,{ "A":"CN:2 " , "B":"Social Philosophy" , "C":"" , "D":"CN:2" }
+
+,{ "A":"CN:3" , "B":"Political Philosophy" , "C":"-" , "D":"CN:3" }
+
+,{ "A":"CN:4" , "B":"Political Science" , "C":"-" , "D":"CN:4" }
+
+,{ "A":"K:17" , "B":"Philosohy of Religion" , "C":"-" , "D":"K:17" }
+
+,{ "A":"CN:5" , "B":"Abnormal Psychology" , "C":"" , "D":"CN:5" }
+
+,{ "A":"CN:6" , "B":"Indian Philosophy" , "C":"" , "D":"CN:6" }
+
+,{ "A":"CN:15" , "B":"Phonetics" , "C":"-" , "D":"CN:15" }
+
+,{ "A":"CN 6:1" , "B":"Contemporay Indian Philosophy" , "C":"" , "D":"CN 6:1" }
+
+,{ "A":"CN:7 " , "B":"Modern Philosophy" , "C":"" , "D":"CN:7" }
+
+,{ "A":"CN:8" , "B":"Symbolic Logic" , "C":"" , "D":"CN:8" }
+
+,{ "A":"CN:9" , "B":"Hermeneutics" , "C":"" , "D":"CN:9" }
+
+,{ "A":"C:1" , "B":"Texts" , "C":"Sources" , "D":"C:1" }
+
+,{ "A":"B:22" , "B":"Process Theology" , "C":"-" , "D":"B:22" }
+
+,{ "A":"C" , "B":"Moral Theology" , "C":"-" , "D":"C" }
+
+,{ "A":"B:24" , "B":"Christianity and Secularisation" , "C":"-" , "D":"B:24" }
+
+,{ "A":"C:3" , "B":"Sacraments" , "C":"-" , "D":"C:3" }
+
+,{ "A":"CST:8" , "B":"Prayer books" , "C":"CST" , "D":"CST:8" }
+
+,{ "A":"B:27" , "B":"Oriental Theology" , "C":"-" , "D":"B:27" }
+
+,{ "A":"B:28" , "B":"Charismatic Theology" , "C":"-" , "D":"B:28" }
+
+,{ "A":"B:29" , "B":"Non-Christian Rites" , "C":"-" , "D":"B:29" }
+
+,{ "A":"O" , "B":"PSYCHOLOGY" , "C":"-" , "D":"-" }
+
+,{ "A":"K:18" , "B":"Humanism" , "C":"-" , "D":"K:18" }
+
+,{ "A":"D" , "B":"Periodicals" , "C":"Bound" , "D":"-" }
+
+,{ "A":"W:27" , "B":"Computer" , "C":"-" , "D":"W:27" }
+
+,{ "A":"D:2" , "B":"Jeevadhara" , "C":"-" , "D":"D:2" }
+
+,{ "A":"D:3" , "B":"Bible Bhashyam - An Indian Bibilical Quarterly" , "C":"-" , "D":"D:3" }
+
+,{ "A":"D:4" , "B":"The Catholic Biblical Quarterly" , "C":"-" , "D":"D:4" }
+
+,{ "A":"N:23" , "B":"Women" , "C":"Feminism" , "D":"N:23" }
+
+,{ "A":"I:17" , "B":"Encyclopaedia on Science and Technology" , "C":"" , "D":"I:17" }
+
+,{ "A":"C:5" , "B":"Chastity" , "C":"-" , "D":"C:5" }
+
+,{ "A":"A:3" , "B":"Pentateuch" , "C":"-" , "D":"A:3" }
+
+,{ "A":"k:19" , "B":"Process Philosophy" , "C":"-" , "D":"K:19" }
+
+,{ "A":"K:20" , "B":"Educational Philosophy" , "C":"-" , "D":"K:20" }
+
+,{ "A":"k:21" , "B":"Political Philosophy" , "C":"-" , "D":"K:21" }
+
+,{ "A":"DS" , "B":"Dissertations" , "C":"B PH and M PH" , "D":"DS" }
+
+,{ "A":"E:2" , "B":"Religious Life" , "C":"-" , "D":"E:2" }
+
+,{ "A":"K:23" , "B":"Philosophical Essays" , "C":"-" , "D":"K:23" }
+
+,{ "A":"E:1" , "B":"Ascetical Theolgoy" , "C":"-" , "D":"E:1" }
+
+,{ "A":"E" , "B":"SPIRITUAL THEOLOGY" , "C":"-" , "D":"-" }
+
+,{ "A":"FD" , "B":"FLOPPY DISKETTES" , "C":"-" , "D":"-" }
+
+,{ "A":"qk:7" , "B":"Philosophy" , "C":"-" , "D":"qk:7" }
+
+,{ "A":"Q:1" , "B":"Dictionary" , "C":"-" , "D":"Q:1" }
+
+,{ "A":"D:1" , "B":"Vidyajyoti" , "C":"-" , "D":"D:1" }
+
+,{ "A":"Q:2" , "B":"Encyclopedia" , "C":"-" , "D":"Q:2" }
+
+,{ "A":"Q:3" , "B":"Sacred Scriptures" , "C":"-" , "D":"Q:3" }
+
+,{ "A":"K:24" , "B":"Scientific Cosmology" , "C":"-" , "D":"K:24" }
+
+,{ "A":"g:2" , "B":"Life of Saints" , "C":"-" , "D":"g:2" }
+
+,{ "A":"K:25" , "B":"Science and Philosophy" , "C":"-" , "D":"K:25" }
+
+,{ "A":"G:1 " , "B":"Life of Christ" , "C":"-" , "D":"g:1" }
+
+,{ "A":"g:4" , "B":"Life of St. Therese" , "C":"Spirituality of St. Therese of Lieux" , "D":"G:4" }
+
+,{ "A":"g:3" , "B":"Other Biographies" , "C":"-" , "D":"G:3" }
+
+,{ "A":"G:6" , "B":"Memories" , "C":"" , "D":"G:6" }
+
+,{ "A":"g:5" , "B":"Autobiographies" , "C":"-" , "D":"G:5" }
+
+,{ "A":"H:4" , "B":"Moral Instruction" , "C":"-" , "D":"H:4" }
+
+,{ "A":"H:1" , "B":"Texts" , "C":"-" , "D":"H:1" }
+
+,{ "A":"H:2" , "B":"Principles of Catechetics" , "C":"-" , "D":"H:2" }
+
+,{ "A":"H:3" , "B":"Guides" , "C":"-" , "D":"H:3" }
+
+,{ "A":"K" , "B":"PHILOSOPHY" , "C":"-" , "D":"K" }
+
+,{ "A":"B:30" , "B":"Interreligious Dialogue" , "C":"-" , "D":"B:30" }
+
+,{ "A":"Q:4" , "B":"Catholic Directory" , "C":"-" , "D":"Q:4" }
+
+,{ "A":"Q:5" , "B":"General Knowledge" , "C":"" , "D":"Q:5" }
+
+,{ "A":"H:7" , "B":"Apologetics" , "C":"-" , "D":"H:7" }
+
+,{ "A":"DSP" , "B":"Dissertations" , "C":"P HD" , "D":"DSP" }
+
+,{ "A":"K:30" , "B":"Philosophy of Mind" , "C":"Philosophy of Mind" , "D":"K:30" }
+
+,{ "A":"L:1" , "B":"Ancient" , "C":"-" , "D":"L:1" }
+
+,{ "A":"J:1" , "B":"Homeletics" , "C":"-" , "D":"J:1" }
+
+,{ "A":"J:2" , "B":"Pastoral Psychology" , "C":"-" , "D":"J:2" }
+
+,{ "A":"J:3" , "B":"General Guidence" , "C":"-" , "D":"J:3" }
+
+,{ "A":"J:4" , "B":"Readings in Pastoral Theology" , "C":"-" , "D":"J:4" }
+
+,{ "A":"J:5" , "B":"Mission Works" , "C":"-" , "D":"J:5" }
+
+,{ "A":"j:6" , "B":"Anecdots" , "C":"-" , "D":"J:6" }
+
+,{ "A":"J:7" , "B":"Texts" , "C":"-" , "D":"j:7" }
+
+,{ "A":"K:15" , "B":"Philosophical Anthropology" , "C":"-" , "D":"K:15" }
+
+,{ "A":"K:1" , "B":"Introduction to Philosophy" , "C":"-" , "D":"K:1" }
+
+,{ "A":"B:2" , "B":"God of Salvation" , "C":"-" , "D":"B:2" }
+
+,{ "A":"K:3" , "B":"Metaphysics" , "C":"-" , "D":"K:3" }
+
+,{ "A":"B:20" , "B":"Escatology" , "C":"-" , "D":"B:20" }
+
+,{ "A":"k:5" , "B":"Rational Psychology" , "C":"-" , "D":"K:5" }
+
+,{ "A":"E:10" , "B":"Christian Spirituality" , "C":"-" , "D":"E:10" }
+
+,{ "A":"k:8" , "B":"Epistemology" , "C":"-" , "D":"K:8" }
+
+,{ "A":"K:9" , "B":"Existentialism" , "C":"-" , "D":"K:9" }
+
+,{ "A":"K:10" , "B":"Philosophy of History" , "C":"-" , "D":"K:10" }
+
+,{ "A":"K:11" , "B":"Readings in Philosophy" , "C":"-" , "D":"K:11" }
+
+,{ "A":"Z" , "B":"Foriegn Language Books" , "C":"Latin and other Language" , "D":"Z:1" }
+
+,{ "A":"o:13" , "B":"Depth Psychology" , "C":"-" , "D":"o:13" }
+
+,{ "A":"T:17" , "B":"Dalit Literature" , "C":"-" , "D":"T:17" }
+
+,{ "A":"o:14" , "B":"Transactional Analysis" , "C":"-" , "D":"o:14" }
+
+,{ "A":"X:3" , "B":"Music" , "C":"-" , "D":"x:3" }
+
+,{ "A":"m:4" , "B":"Upanishads" , "C":"-" , "D":"m:4" }
+
+,{ "A":"W:25" , "B":"Cooking" , "C":"-" , "D":"W:25" }
+
+,{ "A":"m:6" , "B":"Hinduism in General" , "C":"-" , "D":"m:6" }
+
+,{ "A":"m:7" , "B":"Vedanthas" , "C":"-" , "D":"m:7" }
+
+,{ "A":"m:8" , "B":"Readings in Indian Philosophy" , "C":"-" , "D":"m:8" }
+
+,{ "A":"N:22" , "B":"Class System" , "C":"-" , "D":"N:22" }
+
+,{ "A":"m:10" , "B":"Religious Hinduism" , "C":"-" , "D":"m:10" }
+
+,{ "A":"m:11" , "B":"Indian Mystics" , "C":"-" , "D":"m:11" }
+
+,{ "A":"m:12" , "B":"Mimamsa" , "C":"-" , "D":"m:12" }
+
+,{ "A":"y:1" , "B":"Children #38; The Youth" , "C":"-" , "D":"Y:1" }
+
+,{ "A":"m:14" , "B":"Gandhian Philosophy" , "C":"-" , "D":"m:14" }
+
+,{ "A":"Y:2" , "B":"Value Education" , "C":"-" , "D":"Y:2" }
+
+,{ "A":"m:16" , "B":"Yoga" , "C":"-" , "D":"m:16" }
+
+,{ "A":"m:17" , "B":"Ethics" , "C":"Indian Philosophy" , "D":"m:17" }
+
+,{ "A":"m:18" , "B":"Advaitha" , "C":"-" , "D":"m:18" }
+
+,{ "A":"Y:3" , "B":"Youth Psychology #38; Counselling" , "C":"-" , "D":"Y:3" }
+
+,{ "A":"y:4" , "B":"Personality DEvelopment" , "C":"-" , "D":"y:4" }
+
+,{ "A":"L:4" , "B":"Contemporary" , "C":"-" , "D":"L:4" }
+
+,{ "A":"m:19" , "B":"Philsophy of Sri. Aurobindo" , "C":"-" , "D":"m:19" }
+
+,{ "A":"y:5" , "B":"Youth Camps, Games" , "C":"-" , "D":"Y:5" }
+
+,{ "A":"Y:6" , "B":"Communication" , "C":"-" , "D":"y:6" }
+
+,{ "A":"L:6" , "B":"The Great Philosophers" , "C":"-" , "D":"l:6" }
+
+,{ "A":"n:1" , "B":"Texts" , "C":"-" , "D":"n:1" }
+
+,{ "A":"n:2" , "B":"Politics" , "C":"-" , "D":"n:2" }
+
+,{ "A":"o:15" , "B":"Experimental Psychology" , "C":"-" , "D":"o:15" }
+
+,{ "A":"n:3" , "B":"Economics" , "C":"-" , "D":"n:3" }
+
+,{ "A":"n:4" , "B":"Education" , "C":"-" , "D":"n:4" }
+
+,{ "A":"y:7" , "B":"Leadership" , "C":"-" , "D":"y:7" }
+
+,{ "A":"o:16" , "B":"Counselling" , "C":"-" , "D":"O:16" }
+
+,{ "A":"y:8" , "B":"Youth Spirituality" , "C":"-" , "D":"Y:8" }
+
+,{ "A":"n:9" , "B":"Social Questions" , "C":"-" , "D":"n:9" }
+
+,{ "A":"n:10" , "B":"Trade Unions" , "C":"-" , "D":"n:10" }
+
+,{ "A":"n:11" , "B":"Agriculture" , "C":"-" , "D":"n:11" }
+
+,{ "A":"y:9" , "B":"General Informations" , "C":"-" , "D":"Y:9" }
+
+,{ "A":"n:13" , "B":"Social Science" , "C":"-" , "D":"n:13" }
+
+,{ "A":"x" , "B":"ART" , "C":"-" , "D":"X" }
+
+,{ "A":"x:1" , "B":"Art in General" , "C":"-" , "D":"x:1" }
+
+,{ "A":"x:2" , "B":"Painting, Drawing, Cartoon" , "C":"-" , "D":"x:2" }
+
+,{ "A":"x:4" , "B":"Dance" , "C":"-" , "D":"x:4" }
+
+,{ "A":"N:18" , "B":"Population" , "C":"-" , "D":"n:18" }
+
+,{ "A":"n:19" , "B":"Development" , "C":"-" , "D":"n:19" }
+
+,{ "A":"n:20" , "B":"Law" , "C":"-" , "D":"n:20" }
+
+,{ "A":"n:21" , "B":"Socialization" , "C":"-" , "D":"n:21" }
+
+,{ "A":"n:7" , "B":"Readings in Sociology" , "C":"-" , "D":"N:7" }
+
+,{ "A":"o:1" , "B":"General Psychology" , "C":"-" , "D":"o:1" }
+
+,{ "A":"o:2" , "B":"Educational Psychology" , "C":"-" , "D":"o:2" }
+
+,{ "A":"o:17" , "B":"Clinical Psychology" , "C":"-" , "D":"O:17" }
+
+,{ "A":"o:3" , "B":"Characterology" , "C":"-" , "D":"o:3" }
+
+,{ "A":"o:4" , "B":"Child Psychology" , "C":"-" , "D":"o:4" }
+
+,{ "A":"o:5" , "B":"Psycho Analysis" , "C":"-" , "D":"o:5" }
+
+,{ "A":"o:6" , "B":"Psychiatry" , "C":"-" , "D":"o:6" }
+
+,{ "A":"o:7" , "B":"Social Psychology" , "C":"-" , "D":"o:7" }
+
+,{ "A":"o:8" , "B":"Readings in Psychology" , "C":"-" , "D":"o:8" }
+
+,{ "A":"o:9" , "B":"Paycho-therapy" , "C":"-" , "D":"o:9" }
+
+,{ "A":"o:10" , "B":"Guidance and Leadership" , "C":"-" , "D":"o:10" }
+
+,{ "A":"o:11" , "B":"Abnormal Psychology" , "C":"-" , "D":"o:11" }
+
+,{ "A":"o:18" , "B":"Religion and Psychology" , "C":"-" , "D":"o:18" }
+
+,{ "A":"o:19" , "B":"Behavioral Psychology" , "C":"-" , "D":"O:19" }
+
+,{ "A":"o:20" , "B":"Existential Psychology" , "C":"-" , "D":"o:20" }
+
+,{ "A":"o:21" , "B":"Structuralism" , "C":"-" , "D":"o:21" }
+
+,{ "A":"o:22" , "B":"Developmental Psychology" , "C":"-" , "D":"o:22" }
+
+,{ "A":"x:5" , "B":"Architecture" , "C":"-" , "D":"x:5" }
+
+,{ "A":"P:1" , "B":"General Science" , "C":"-" , "D":"p:1" }
+
+,{ "A":"p:2" , "B":"Chemistry" , "C":"-" , "D":"p:2" }
+
+,{ "A":"p:3" , "B":"Biology" , "C":"-" , "D":"P:3" }
+
+,{ "A":"p:4" , "B":"Anthropology" , "C":"-" , "D":"p:4" }
+
+,{ "A":"p:5" , "B":"Mathematics" , "C":"-" , "D":"p:5" }
+
+,{ "A":"p:6" , "B":"Methodology" , "C":"-" , "D":"p:6" }
+
+,{ "A":"p:7" , "B":"Evolution" , "C":"-" , "D":"p:7" }
+
+,{ "A":"p:8" , "B":"Medicine" , "C":"-" , "D":"p:8" }
+
+,{ "A":"p:9" , "B":"Zoology" , "C":"-" , "D":"P:9" }
+
+,{ "A":"p:10" , "B":"Physics" , "C":"-" , "D":"P:10" }
+
+,{ "A":"P:11" , "B":"Aeronautics" , "C":"-" , "D":"p:11" }
+
+,{ "A":"p:12" , "B":"Geology" , "C":"-" , "D":"p:12" }
+
+,{ "A":"p:13" , "B":"Geography" , "C":"-" , "D":"p:13" }
+
+,{ "A":"p:14" , "B":"Mineralogy" , "C":"-" , "D":"p:14" }
+
+,{ "A":"p:15" , "B":"Meterorology" , "C":"-" , "D":"P:15" }
+
+,{ "A":"p:16" , "B":"Technology" , "C":"-" , "D":"p:16" }
+
+,{ "A":"x:8" , "B":"Speech" , "C":"-" , "D":"x:8" }
+
+,{ "A":"p:18" , "B":"Botony" , "C":"-" , "D":"p:18" }
+
+,{ "A":"P:19" , "B":"First Aid" , "C":"-" , "D":"P:19" }
+
+,{ "A":"p:20" , "B":"Archelogy" , "C":"-" , "D":"P:20" }
+
+,{ "A":"p:21" , "B":"Popular Science" , "C":"-" , "D":"P:21" }
+
+,{ "A":"P:22" , "B":"Marine Biology" , "C":"-" , "D":"p:22" }
+
+,{ "A":"x:9" , "B":"Esthetics" , "C":"-" , "D":"x:9" }
+
+,{ "A":"P:24" , "B":"Geneology" , "C":"-" , "D":"p:24" }
+
+,{ "A":"p:25" , "B":"Radio Science" , "C":"-" , "D":"P:25" }
+
+,{ "A":"P:26" , "B":"Human Physiology" , "C":"-" , "D":"p:26" }
+
+,{ "A":"x:10" , "B":"Filim, Communication media" , "C":"-" , "D":"x:10" }
+
+,{ "A":"qb:2" , "B":"Dogmatic Theology" , "C":"-" , "D":"qb:2" }
+
+,{ "A":"p:27" , "B":"Law" , "C":"-" , "D":"p:27" }
+
+,{ "A":"p:28" , "B":"Ecology" , "C":"-" , "D":"p:28" }
+
+,{ "A":"x:11" , "B":"Art and Christianity" , "C":"-" , "D":"x:11" }
+
+,{ "A":"qa:2" , "B":"Dogmatic Theology" , "C":"-" , "D":"q:2" }
+
+,{ "A":"qa:3" , "B":"Moral Theology" , "C":"-" , "D":"qa:3" }
+
+,{ "A":"qc:3" , "B":"Moral Theology" , "C":"-" , "D":"qc:3" }
+
+,{ "A":"qd:4" , "B":"Canon Law" , "C":"-" , "D":"qd:4" }
+
+,{ "A":"qe:5" , "B":"Spiritual Life" , "C":"-" , "D":"qe:5" }
+
+,{ "A":"qj:6" , "B":"Papstoral Theology #38; Catechetics" , "C":"-" , "D":"qj:6" }
+
+,{ "A":"E:11" , "B":"Christian Mysticism" , "C":"-" , "D":"E:11" }
+
+,{ "A":"E:12" , "B":"Prayer" , "C":"-" , "D":"E:12" }
+
+,{ "A":"qk:8" , "B":"Indian Philosophy" , "C":"-" , "D":"qk:8" }
+
+,{ "A":"qn:9" , "B":"Social Science" , "C":"-" , "D":"qn:9" }
+
+,{ "A":"qo:10" , "B":"Psychology" , "C":"-" , "D":"qo:10" }
+
+,{ "A":"qp:11" , "B":"Physical Science" , "C":"-" , "D":"qp:11" }
+
+,{ "A":"qq:12" , "B":"General Reference" , "C":"-" , "D":"qq:12" }
+
+,{ "A":"qr:13" , "B":"Religion" , "C":"-" , "D":"qr:13" }
+
+,{ "A":"qt:14" , "B":"Literature" , "C":"-" , "D":"qt:14" }
+
+,{ "A":"r:1" , "B":"Religion in General" , "C":"-" , "D":"r:1" }
+
+,{ "A":"r:2" , "B":"Islamism" , "C":"-" , "D":"r:2" }
+
+,{ "A":"r:3" , "B":"Hinduism" , "C":"-" , "D":"r:3" }
+
+,{ "A":"r:4" , "B":"Buddhism" , "C":"-" , "D":"r:4" }
+
+,{ "A":"r:5" , "B":"christianity" , "C":"-" , "D":"r:5" }
+
+,{ "A":"r:6" , "B":"Readings in Religion" , "C":"-" , "D":"r:6" }
+
+,{ "A":"r:7" , "B":"Confusianism" , "C":"-" , "D":"r:7" }
+
+,{ "A":"r:8" , "B":"Comparative Religion" , "C":"-" , "D":"r:8" }
+
+,{ "A":"r:9" , "B":"Methology" , "C":"-" , "D":"r:9" }
+
+,{ "A":"r:10" , "B":"Judaism, Hasidism" , "C":"-" , "D":"r:10" }
+
+,{ "A":"r:11" , "B":"Sikhism" , "C":"-" , "D":"r:11" }
+
+,{ "A":"r:12" , "B":"Jainism" , "C":"-" , "D":"r:12" }
+
+,{ "A":"T:12" , "B":"Childrens Literature" , "C":"-" , "D":"T:12" }
+
+,{ "A":"W:12" , "B":"Binding, Printing" , "C":"-" , "D":"W:12" }
+
+,{ "A":"S:1" , "B":"World History" , "C":"-" , "D":"S:1" }
+
+,{ "A":"S:2" , "B":"Indian History" , "C":"-" , "D":"S:2" }
+
+,{ "A":"W:13" , "B":"Swimming" , "C":"-" , "D":"W:13" }
+
+,{ "A":"S:3" , "B":"Ancient" , "C":"-" , "D":"S:3" }
+
+,{ "A":"S:4" , "B":"European" , "C":"-" , "D":"S:4" }
+
+,{ "A":"S:5" , "B":"Amercian" , "C":"-" , "D":"S:5" }
+
+,{ "A":"S:6" , "B":"Asian" , "C":"-" , "D":"S:6" }
+
+,{ "A":"S:7" , "B":"African" , "C":"-" , "D":"S:7" }
+
+,{ "A":"S:8" , "B":"Souvenir" , "C":"-" , "D":"S:8" }
+
+,{ "A":"S:9" , "B":"History of Kerala" , "C":"-" , "D":"S:9" }
+
+,{ "A":"S:10" , "B":"History in General" , "C":"-" , "D":"S:10" }
+
+,{ "A":"S:11" , "B":"Canada" , "C":"-" , "D":"S:11" }
+
+,{ "A":"W:14" , "B":"Child Education" , "C":"-" , "D":"W:14" }
+
+,{ "A":"S:12" , "B":"Mexico" , "C":"-" , "D":"S:12" }
+
+,{ "A":"S:13" , "B":"Middle East" , "C":"-" , "D":"S:13" }
+
+,{ "A":"W:16" , "B":"Accountancy, Business, Management" , "C":"-" , "D":"W:16" }
+
+,{ "A":"S:14" , "B":"Russia" , "C":"-" , "D":"S:14" }
+
+,{ "A":"S:15" , "B":"World Countries" , "C":"-" , "D":"S:15" }
+
+,{ "A":"W:17" , "B":"Craft" , "C":"-" , "D":"W:17" }
+
+,{ "A":"T:2" , "B":"Biographical Novel" , "C":"-" , "D":"T:2" }
+
+,{ "A":"T:3" , "B":"Poetry" , "C":"-" , "D":"T:3" }
+
+,{ "A":"T:4" , "B":"Prose-Essays" , "C":"-" , "D":"T:4" }
+
+,{ "A":"T:5" , "B":"Stories" , "C":"-" , "D":"T:5" }
+
+,{ "A":"T:6" , "B":"Travelogue" , "C":"-" , "D":"T:6" }
+
+,{ "A":"T:7" , "B":"Drama" , "C":"-" , "D":"T:7" }
+
+,{ "A":"T:8" , "B":"Adventures" , "C":"-" , "D":"T:8" }
+
+,{ "A":"T:9" , "B":"Sports" , "C":"-" , "D":"T:9" }
+
+,{ "A":"T:10" , "B":"History of Literature" , "C":"-" , "D":"T:10" }
+
+,{ "A":"T:11" , "B":"Interview" , "C":"-" , "D":"T:11" }
+
+,{ "A":"x:12" , "B":"Hobbies" , "C":"-" , "D":"x:12" }
+
+,{ "A":"T:13" , "B":"Literary Criticism" , "C":"-" , "D":"T:13" }
+
+,{ "A":"W:18" , "B":"Construction" , "C":"-" , "D":"W:18" }
+
+,{ "A":"W:19" , "B":"Management" , "C":"-" , "D":"W:19" }
+
+,{ "A":"W:20" , "B":"Statistics" , "C":"-" , "D":"W:20" }
+
+,{ "A":"T:14" , "B":"Collected Works" , "C":"-" , "D":"T:14" }
+
+,{ "A":"T:15" , "B":"Questions, Reflectins, Vocabulary" , "C":"-" , "D":"T:15" }
+
+,{ "A":"T:16" , "B":"Satire, Humour" , "C":"-" , "D":"T:16" }
+
+,{ "A":"U" , "B":"Languages" , "C":"-" , "D":"U" }
+
+,{ "A":"U:1" , "B":"English" , "C":"-" , "D":"U:1" }
+
+,{ "A":"W:21" , "B":"Journalism" , "C":"-" , "D":"W:21" }
+
+,{ "A":"U:2" , "B":"Latin" , "C":"-" , "D":"U:2" }
+
+,{ "A":"U:3" , "B":"Hindi" , "C":"-" , "D":"U:3" }
+
+,{ "A":"u:4" , "B":"Greek" , "C":"-" , "D":"u:4" }
+
+,{ "A":"u:5" , "B":"French" , "C":"-" , "D":"u:5" }
+
+,{ "A":"U:6" , "B":"German" , "C":"-" , "D":"u:6" }
+
+,{ "A":"u:7" , "B":"Syriac" , "C":"-" , "D":"U:7" }
+
+,{ "A":"u:8" , "B":"Aramaic" , "C":"-" , "D":"U:8" }
+
+,{ "A":"u:9" , "B":"Sanskrit" , "C":"-" , "D":"U:9" }
+
+,{ "A":"u:10" , "B":"African" , "C":"-" , "D":"u:10" }
+
+,{ "A":"u:11" , "B":"Arabic" , "C":"-" , "D":"U:11" }
+
+,{ "A":"U:13" , "B":"malayalam" , "C":"-" , "D":"u:13" }
+
+,{ "A":"u:14" , "B":"Spanish" , "C":"-" , "D":"U:14" }
+
+,{ "A":"W:22" , "B":"Library Science" , "C":"-" , "D":"W:22" }
+
+,{ "A":"W:23" , "B":"Technology" , "C":"-" , "D":"W:23" }
+
+,{ "A":"V:1" , "B":"General Introduction" , "C":"-" , "D":"V:1" }
+
+,{ "A":"V:2" , "B":"Mass" , "C":"-" , "D":"V:2" }
+
+,{ "A":"V:3" , "B":"Liturgical Year" , "C":"-" , "D":"V:3" }
+
+,{ "A":"V:4" , "B":"Liturgical Hymns" , "C":"-" , "D":"v:4" }
+
+,{ "A":"v:5" , "B":"Rubrics" , "C":"-" , "D":"V:5" }
+
+,{ "A":"V:6" , "B":"Documents on Liturgy" , "C":"-" , "D":"V:6" }
+
+,{ "A":"V:7" , "B":"Liturgical Art" , "C":"-" , "D":"V:7" }
+
+,{ "A":"V:8" , "B":"Bible Service" , "C":"-" , "D":"V:8" }
+
+,{ "A":"V:9" , "B":"Rites" , "C":"-" , "D":"V:9" }
+
+,{ "A":"V:10" , "B":"Indianisation in Liturgy" , "C":"-" , "D":"V:10" }
+
+,{ "A":"W:24" , "B":"Nursing" , "C":"-" , "D":"W:24" }
+
+,{ "A":"v:11" , "B":"Readings in Liturgy" , "C":"-" , "D":"V:11" }
+
+,{ "A":"W:1" , "B":"Games and Sports" , "C":"-" , "D":"W:1" }
+
+,{ "A":"W:2" , "B":"Tailoring" , "C":"-" , "D":"W:2" }
+
+,{ "A":"W:3" , "B":"Photography" , "C":"-" , "D":"W:3" }
+
+,{ "A":"W:4" , "B":"Type Writing" , "C":"-" , "D":"W:4" }
+
+,{ "A":"W:5" , "B":"Gardening" , "C":"-" , "D":"W:5" }
+
+,{ "A":"W:6" , "B":"Decoration" , "C":"-" , "D":"W:6" }
+
+,{ "A":"W:7" , "B":"Circus" , "C":"-" , "D":"W:7" }
+
+,{ "A":"W:8" , "B":"Hunting" , "C":"-" , "D":"W:8" }
+
+,{ "A":"W:9" , "B":"Carpentry" , "C":"-" , "D":"W:9" }
+
+,{ "A":"W:10" , "B":"Short Hands" , "C":"-" , "D":"W:10" }
+
+,{ "A":"W:11" , "B":"Small Industries" , "C":"-" , "D":"W:11" }
+
+,{ "A":"k:7" , "B":"Cosmology" , "C":"-" , "D":"K:7" }
+
+,{ "A":"k:13" , "B":"Linguistic Philosophy" , "C":"-" , "D":"K:13" }
+
+,{ "A":"k:29" , "B":"African Philosophy" , "C":"-" , "D":"K:29" }
+
+,{ "A":"E:13" , "B":"Charismatic Movement" , "C":"-" , "D":"E:13" }
+
+,{ "A":"E:14" , "B":"Indian Spirituality" , "C":"-" , "D":"E:14" }
+
+,{ "A":"H:5" , "B":"Hymns" , "C":"-" , "D":"H:5" }
+
+,{ "A":"H:6" , "B":"Catechism in Symbols and Pictutes" , "C":"-" , "D":"H:6" }
+
+,{ "A":"H:8" , "B":"Readings in Catechetics" , "C":"-" , "D":"H:8" }
+
+,{ "A":"I:1" , "B":"Philosophy of Science" , "C":"-" , "D":"I:1" }
+
+,{ "A":"I" , "B":"SCIENCE" , "C":"-" , "D":"I" }
+
+,{ "A":"T:18" , "B":"Feminism" , "C":"-" , "D":"T:18" }
+
+,{ "A":"I:3" , "B":"Scientific Cosmology " , "C":"-" , "D":"I:3" }
+
+,{ "A":"I:6" , "B":"Chaos Theory" , "C":"-" , "D":"i:6" }
+
+,{ "A":"N:24" , "B":"Globalisation" , "C":"Globalization" , "D":"N:24" }
+
+,{ "A":"I:23" , "B":"Nanotechnology" , "C":"Nanotechnology" , "D":"I:23" }
+
+,{ "A":"B" , "B":"Systematic Theology" , "C":"-" , "D":"B" }
+
+,{ "A":"CD" , "B":"Compact Dikettes" , "C":"Compact Dikettes" , "D":"CD" }
+
+,{ "A":"CN:10" , "B":"Scientific Cosmology" , "C":"Scientific Cosmology" , "D":"CN:10" }
+
+,{ "A":"CN:14" , "B":"Social Work Dynamics" , "C":"Social Work Dynamics" , "D":"CN:14" }
+
+,{ "A":"O:23" , "B":"Indian Psychology" , "C":"-" , "D":"O:23" }
+
+,{ "A":"A:10" , "B":"John - Gospel, Epistles, Apocalypse" , "C":"-" , "D":"A:10" }
+
+,{ "A":"A:11" , "B":"Paul" , "C":"-" , "D":"A:11" }
+
+,{ "A":"A:13" , "B":"New Testament in General" , "C":"-" , "D":"A:13" }
+
+,{ "A":"A:14" , "B":"Old Testament in General" , "C":"-" , "D":"A:14" }
+
+,{ "A":"A:15" , "B":"Bible in General" , "C":"-" , "D":"A:15" }
+
+,{ "A":"A:16" , "B":"Bible Lands" , "C":"-" , "D":"A:16" }
+
+,{ "A":"A:17" , "B":"Biblical Theology" , "C":"-" , "D":"A:17" }
+
+,{ "A":"A:18" , "B":"Hermeneutics" , "C":"-" , "D":"A:18" }
+
+,{ "A":"A:2" , "B":"Inroduction to Bible" , "C":"-" , "D":"A:2" }
+
+,{ "A":"A:4" , "B":"Historical Books" , "C":"-" , "D":"A:4" }
+
+,{ "A":"A:5" , "B":"Wisdom Books" , "C":"" , "D":"A:5" }
+
+,{ "A":"A:6" , "B":"Prophets" , "C":"-" , "D":"A:6" }
+
+,{ "A":"VD" , "B":"Cassettes" , "C":"Videos" , "D":"VD" }
+
+,{ "A":"K:28" , "B":"Social Philosophy" , "C":"Social Philosophy" , "D":"K:28" }
+
+,{ "A":"B:1" , "B":"Christology" , "C":"-" , "D":"B:1" }
+
+,{ "A":"B:10" , "B":"Matrimony" , "C":"-" , "D":"B:10" }
+
+,{ "A":"B:11" , "B":"Holy Orders" , "C":"-" , "D":"B:11" }
+
+,{ "A":"B:12" , "B":"Theological Anthropology" , "C":"-" , "D":"B:12" }
+
+,{ "A":"B:13" , "B":"Ecclesiology" , "C":"-" , "D":"B:13" }
+
+,{ "A":"B:14" , "B":"Mariology" , "C":"-" , "D":"B:14" }
+
+,{ "A":"B:15" , "B":"Revelation" , "C":"-" , "D":"B:15" }
+
+,{ "A":"B:16" , "B":"Theological Virtues" , "C":"-" , "D":"B:16" }
+
+,{ "A":"B:17" , "B":"Ecumenism" , "C":"-" , "D":"B:17" }
+
+,{ "A":"o:12" , "B":"-" , "C":"Sex, Practical Psychology" , "D":"o:12" }
+
+,{ "A":"I:21" , "B":"Immortality" , "C":"Immortality" , "D":"I:21" }
+
+,{ "A":"I:15" , "B":"Science and Ecology" , "C":"-" , "D":"I:15" }
+
+,{ "A":"I:22" , "B":"Indian Sciences in General" , "C":"Indian Sciences in General" , "D":"I:22" }
+
+,{ "A":"I:10" , "B":"Evolution" , "C":"-" , "D":"I:10" }
+
+,{ "A":"I:11" , "B":"Neuro-science" , "C":"-" , "D":"I:11" }
+
+,{ "A":"I:12" , "B":"Bio-technology" , "C":"-" , "D":"I:12" }
+
+,{ "A":"I:13" , "B":"Artificial Intelligence" , "C":"-" , "D":"I:13" }
+
+,{ "A":"I:14" , "B":"Information Technology" , "C":"-" , "D":"I:14" }
+
+,{ "A":"I:16" , "B":"Extraterrestrial Life" , "C":"-" , "D":"I:16" }
+
+,{ "A":"I:18" , "B":"Religious References" , "C":"-" , "D":"I:18" }
+
+,{ "A":"I:19" , "B":"General References" , "C":"-" , "D":"I:19" }
+
+,{ "A":"I:2" , "B":"History of Science" , "C":"-" , "D":"I:2" }
+
+,{ "A":"I:20" , "B":"Philosophical References" , "C":"-" , "D":"I:20" }
+
+,{ "A":"I:4" , "B":"Relativity Theory" , "C":"-" , "D":"I:4" }
+
+,{ "A":"I:5" , "B":"Quantum Physics" , "C":"-" , "D":"I:5" }
+
+,{ "A":"I:7" , "B":"Science and Religion" , "C":"-" , "D":"I:7" }
+
+,{ "A":"I:8" , "B":"Science and Mysticism" , "C":"-" , "D":"I:8" }
+
+,{ "A":"I:9" , "B":"Popular Science" , "C":"-" , "D":"I:9" }
+
+,{ "A":"E:3" , "B":"Priestly Life" , "C":"Priestly Life" , "D":"E:3" }
+
+,{ "A":"E:4" , "B":"Readings in Spiritual Life" , "C":"Readings in Spiritual Life" , "D":"E:4" }
+
+,{ "A":"E:5" , "B":"Retreats" , "C":"Retreats" , "D":"E:5" }
+
+,{ "A":"E:6" , "B":"Marian Devotion" , "C":"Marian Devotion" , "D":"E:6" }
+
+,{ "A":"E:7" , "B":"Devotions" , "C":"Devotions" , "D":"E:7" }
+
+,{ "A":"E:8" , "B":"Meditations" , "C":"Meditations" , "D":"E:8" }
+
+,{ "A":"E:9" , "B":"Christian Life" , "C":"Christian Life" , "D":"E:9" }
+
+,{ "A":"F:1" , "B":"Indian Church History" , "C":"Indian Church History" , "D":"F:1" }
+
+,{ "A":"F:2" , "B":"Church History in General" , "C":"Church History in General" , "D":"F:2" }
+
+,{ "A":"F:3" , "B":"Patrology" , "C":"Patrology" , "D":"F:3" }
+
+,{ "A":"F:4" , "B":"Christian Civilization" , "C":"Christian Civilization" , "D":"F:4" }
+
+,{ "A":"F:5" , "B":"Kerala Church History" , "C":"Kerala Church History" , "D":"F:5" }
+
+,{ "A":"F:6" , "B":"Persecutions" , "C":"Martydom" , "D":"F:6" }
+
+,{ "A":"F:7" , "B":"Reformation" , "C":"Reformation" , "D":"F:7" }
+
+,{ "A":"F:8" , "B":"Christian Writers" , "C":"Christian Writers" , "D":"F:8" }
+
+,{ "A":"u:12" , "B":"Italian" , "C":"-" , "D":"U:12" }
+
+,{ "A":"T:1" , "B":"Novel" , "C":"-" , "D":"T:1" }
+
+,{ "A":"-W:29" , "B":"DRIVING" , "C":"-" , "D":"W:29" }
+
+,{ "A":"B:33" , "B":"APOSTOLIC EXHORTATIONS" , "C":"-" , "D":"-B:33" }
+
+,{ "A":"-k" , "B":"-" , "C":"-" , "D":"-" }
+
+,{ "A":"T:19" , "B":"SPEECHES" , "C":"-" , "D":"-T:19" }
+
+,{ "A":"-Y:11" , "B":"-INSPIRATIONAL READINGS" , "C":"-" , "D":"-Y:11" }
+
+,{ "A":"-K:31 " , "B":"GNOSTICISM" , "C":"-" , "D":"-K:31" }
+
+,{ "A":"-N:25" , "B":"BUSSINESS" , "C":"-" , "D":"-N:25" }

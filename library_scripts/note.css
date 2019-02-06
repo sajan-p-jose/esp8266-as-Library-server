@@ -1,0 +1,273 @@
+/*
+Theme Name: Notepad
+Theme URI: http://www.ndesign-studio.com/wp-themes/notepad
+Description: A notepad theme inspired by the iPhone's Notes.app
+Version: 1.2
+Tags: theme-options, translation-ready, two-columns, right-sidebar, fixed-width, threaded-comments, light, yellow
+Author: Nick La
+Author URI: http://www.ndesign-studio.com
+
+This theme is released under GPL: http://www.gnu.org/licenses/gpl.html
+
+If you remix, convert, translate, modify, or distribute a copy of this theme, please keep the links/credit in the footer.
+*/
+
+/* reset
+-------------------------------------------------*/
+html, body, address, blockquote, div, dl, form, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul,
+dd, dt, li, tbody, td, tfoot, th, thead, tr, button, del, ins, map, object,
+a, abbr, acronym, b, bdo, big, br, cite, code, dfn, em, i, img, kbd, q, samp, small, span,
+strong, sub, sup, tt, var, legend, fieldset {
+	margin: 0 auto;
+	padding: 0;
+}
+img, fieldset {
+	border: 0;
+}
+/* reset end
+-------------------------------------------------*/
+
+html {
+	background: #f5f4f4 url(img/bg-stripe.png) fixed ;
+}
+body {
+	font: normal 16px Arial, Helvetica, sans-serif;
+ 
+    padding: 0;
+    position:relative;
+	max-width:960px;
+	margin:0 auto;
+
+	margin:0px auto;
+	color: #6f5e4e;
+}
+p {
+	margin: 0 0 1em;
+}
+em, i {
+	font: normal italic 100% Georgia, "Times New Roman", Times, serif;
+}
+a {
+	color: #644527;
+	text-decoration: none;
+	outline: none;
+}
+a:hover {
+	color: #ca6c18;
+}
+big {
+	font-size: 1.2em;
+	font-weight: bold;
+	line-height: 1.2em;
+	color: #887662;
+}
+small {
+	font-size: .9em;
+	color: #9f8c77;
+}
+blockquote {
+	background: url(img/blockquote.png) no-repeat 4px 0;
+	padding: 0 0 0 26px;
+	font: italic 1.1em/1.4em Georgia, "Times New Roman", Times, serif;
+	color: #897662;
+}
+ul {
+	list-style: none;
+	margin: 1.2em 0 1.8em 10px;
+}
+ul li {
+	background: url(img/bullet.png) no-repeat 0 .5em;
+	padding: 0 0 .5em 16px;
+}
+ol {
+	margin: 1.2em 0 1.8em 10px;
+}
+ol li {
+	margin: 0 0 .5em 16px;
+}
+h1, h2, h3, h4, h5, h6 {
+	line-height: 2em;
+	color: #644527;
+}
+h1 {
+	font-size: 1.8em;
+}
+h2 {
+	font-size: 1.3em;
+}
+h3 {
+	font-size: 1.4em;
+}
+h4 {
+	font-size: 1.2em;
+}
+input, textarea, select {
+	font: normal 1em/1.4em Arial, Helvetica, sans-serif;
+	background: transparent ;
+
+}
+select {
+	border: solid  #d6d1c7;
+	border-width:0 0 1 0 ;
+
+}
+
+input[type=text],input[type=tel],input[type=number], input[type=password], textarea {
+
+	border: solid  ;
+	border-width:0 0 1 0 ;
+	padding: 5px 7px;
+	background: transparent ;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+textarea:focus, input[type=password]:focus,,input[type=tel]:focus,input[type=number]:focus, input[type=text]:focus {
+	border: solid  #ca6c18;
+	border-width:0 0 1 0 ;
+	outline: none;
+	box-shadow: 0 1px 4px #c5c5a2;
+
+	-webkit-box-shadow: 0 1px 4px #c5c5a2;
+	-moz-box-shadow: 0 1px 4px #c5c5a2;
+}
+input[type=reset], input[type=submit] {
+	font-weight: bold;
+	color: #fff;
+	background: #402206 url(img/form-button-bg.png) repeat-x;
+	border: solid 1px #402206;
+	padding: 4px 15px;
+
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+input[type=reset]:hover, input[type=submit]:hover {
+	background: #74300c url(img/form-button-bg.png) repeat-x 0 -91px;
+	border: solid 1px #74300c;
+}
+
+#pagewrapper {
+	max-width: 980px;
+	margin: 0 auto;
+}
+
+/* header
+-------------------------------------------------*/
+#header {
+	background: url(img/header.png) no-repeat center bottom;
+	padding: 6px 20px 40px;
+	position: relative;
+}
+#header #logo {
+	font: bold 2em/1em Arial, Helvetica, sans-serif;
+	margin: 0 0 10px;
+	letter-spacing: -.08em;
+	color: #74685c;
+	text-shadow: 0 1px 0 #fff;
+}
+#header #logo, #header #logo a {
+	color: #A4988c;
+	text-decoration: none;
+}
+#header #logo a:hover {
+	color: #ca6c18;
+}
+#header .description {
+	font: 1.4em/1em Arial, Helvetica, sans-serif;
+	margin: 0 0 5px;
+	letter-spacing: -.04em;
+	color: #7c7268;
+	text-shadow: 0 1px 0 #fff;
+}
+
+/* content
+-------------------------------------------------*/
+#wrapper {
+	background: url(img/wrapper.png) center 5px;
+	width: 100%;
+	min-height: 5px;
+	overflow: hidden;
+	
+}
+
+#content {
+	max-width: 900px;
+	margin-left: 5px;
+margin-right:5px;
+	padding: 0 0 0 5px;
+}
+
+
+/* comments end
+-------------------------------------------------*/
+
+
+/* footer
+-------------------------------------------------*/
+#footer {
+	font-size: .9em;
+	background: url(img/footer.png) no-repeat center top;
+	padding: 90px 10px 10px;
+	clear: both;
+	width: auto;
+	overflow: hidden;
+	color: #888;
+}
+#footer a {
+	color: #666;
+	text-decoration: none;
+}
+#footer a:hover {
+	text-decoration: underline;
+}
+#footer .copyright {
+	float: left;
+}
+#footer .credits {
+	float: right;
+}
+/* footer end
+-------------------------------------------------*/
+
+/* wordpress post formating, etc.
+-------------------------------------------------*/
+.center {
+	text-align: center;
+}
+img.alignleft, img.aligncenter, img.alignright, img.alignnone {
+	background: #fff;
+	border: solid 1px #d6d1c7;
+	padding: 5px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+.alignleft {
+	float: left;
+	margin-right: 20px;
+}
+.alignright {
+	float: right;
+	margin-left: 5px;
+}
+.aligncenter {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wp-caption {
+	text-align: center;
+	background: #fff;
+	border: solid 1px #d6d1c7;
+	padding: 5px 2px 0;
+	margin-bottom: 15px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+.wp-caption-text {
+	font: italic 1em/1.3em Georgia, "Times New Roman", Times, serif;
+	margin: 6px 0;
+	color: #777;
+}
+
+/* wordpress post formating end
+-------------------------------------------------*/

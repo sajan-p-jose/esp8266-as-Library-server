@@ -13,7 +13,8 @@
 #define SOFT_AP_PASSWORD   "pass1234"
 
 char  SOFT_AP_SSID[30]=  "library.info";
-
+int sound=0;
+int READONLY=0;
 
 extern spiffs fs ;
 
@@ -241,22 +242,7 @@ user_rf_cal_sector_set (void)
   return rf_cal_sec;
 }
 
-void
-LEDBlinkTask (void *pvParameters)
-{
-    while (1)
-    {
-      // Delay and turn on
-      // 5 for esp12  2 for esp 2
-      vTaskDelay (100 / portTICK_RATE_MS);
-      GPIO_OUTPUT_SET (2, 1);
 
-      // Delay and LED off 
-      vTaskDelay (2000 / portTICK_RATE_MS);
-      GPIO_OUTPUT_SET (2, 0);
-//---------------------------------------
-       }
-}
 //-------------------------------------------------
 /* **** SPRINTF_ENC ****  */
 char *
@@ -436,3 +422,44 @@ void memcpy_P(void * dst, const void * src, const unsigned int len)
   *_dst = (*_dst & ~mask) | (*_src & mask);
 }
 //------------------------------
+void
+LEDBlinkTask (void *pvParameters)
+{
+  while (1)
+    {
+    
+      GPIO_OUTPUT_SET (2, 0);
+      if(sound==1)
+	{
+	  GPIO_OUTPUT_SET (5, 1);
+	}
+      vTaskDelay (100 / portTICK_RATE_MS);
+
+      GPIO_OUTPUT_SET (2, 1);
+      GPIO_OUTPUT_SET (5, 0);
+      sound=0;
+      vTaskDelay (2000 / portTICK_RATE_MS);
+   
+      //---------------------------------------
+    }
+}
+//-----------------------------------
+void
+soundTask (void *pvParameters)
+{
+  while (1)
+    {
+  
+      if(sound==1)
+	{
+	  GPIO_OUTPUT_SET (5, 1);
+	  vTaskDelay (30 / portTICK_RATE_MS);
+	  GPIO_OUTPUT_SET (5, 0);
+	  vTaskDelay (30/ portTICK_RATE_MS);
+	  sound=0;
+	}
+
+
+    }
+}
+//--------------------------------

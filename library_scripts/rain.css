@@ -1,0 +1,509 @@
+/*  
+Theme Name: Rainbow
+Theme URI: http://www.skinpress.com/rainbow/
+Description: Download free high quality wordpress themes at <a href="http://www.skinpress.com/">Skinpress.com</a>.
+Version: 1.0
+Author: Skinpress.com
+Author URI: http://www.skinpress.com/
+
+*/
+
+
+
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset{
+	margin:0;
+	padding:0;
+}
+ul{
+	list-style:none;
+}
+a{
+	color:#333333;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+a img{
+	border:0;
+}
+.clear{
+	clear:both;
+}
+body{
+
+	padding:0px;
+	font-family:Verdana, Geneva, sans-serif;
+
+	background:#fff ;
+	color:#333333;
+        position:relative;
+	margin:0 auto;
+	max-width:955px;
+}
+
+#page{
+
+	margin:auto;
+}
+#wrapper{
+	width:100%;
+
+}
+#wrapper_inner{
+
+	padding:10px ;
+
+}
+
+/* HEADER */
+
+#header{
+
+
+	overflow:hidden;
+}
+
+#header_rss{
+	float:right;
+	padding:10px;
+}
+
+#header h1{
+	color:#000;
+
+	font-weight:normal;
+	font-family:"Times New Roman", Times, serif;
+	letter-spacing:1px;
+	font-style:normal;
+	float:left;
+	padding:5px;
+	position:relative;
+}
+
+#header h1 a{
+	color:#000;
+}
+
+#header h1 a:hover{
+	text-decoration:none;
+}
+
+#header h1 span{
+
+	position:relative;
+	top:-10px;
+	color:#545256;
+	display:block;
+	font-weight:normal;
+	text-align:center;
+	letter-spacing:0;
+}
+
+#header_rss img{
+	float:right;
+}
+
+/* MENU */
+
+#menu{
+	width:100%;
+	height:49px;
+	background:url(images/bgr_menu.gif) repeat-x;
+	overflow:hidden;
+}
+
+#main_search{
+	float:left;
+	width:251px;
+	height:49px;
+	background:url(images/bgr_main_search.gif) repeat-x;
+}
+
+
+/* BODY */
+
+#body{
+	width:100%;
+
+	overflow:hidden;
+	position:relative;
+	margin:0 auto;
+	max-width:955px;
+}
+
+
+
+
+
+/* Begin Images */
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+/*	Using 'class="alignright"' on an image will (who would've
+	thought?!) align the image to the right. And using 'class="centered',
+	will of course center the image. This is much better than using
+	align="center", being much more futureproof (and valid) */
+
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	display: inline;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+	}
+
+.alignright {
+	float: right;
+	}
+
+.alignleft {
+	float: left
+	}
+/* End Images */
+
+
+
+
+
+blockquote {
+	margin: 15px 30px 10px 10px;
+	padding-left: 24px;
+	padding-bottom:7px;
+	background:url(images/blockquote_bg.gif) repeat-y;
+	}
+
+blockquote blockquote{
+	background:url(images/blockquote_bg2.gif) repeat-y;
+	}
+
+blockquote cite {
+	margin: 5px 0 0;
+	display: block;
+	}
+
+.center {
+	text-align: center;
+	}
+
+hr {
+		border:1px  #0e0efe;
+		}
+
+a img {
+	border: none;
+	}
+
+.navigation {
+	text-align: center;
+	margin:10px 0 0 0;
+	width:100%;
+	overflow:hidden;
+
+	font-weight:bold;
+	color:#000;
+	}
+
+
+	
+ol li{
+	list-style: decimal outside;
+	}
+/* End Entry Lists */
+
+
+
+/* Begin Form Elements */
+#searchform {
+	margin: 10px auto;
+	padding: 5px 3px; 
+	text-align: center;
+	}
+
+#sidebar #searchform #s {
+	width: 108px;
+	padding: 2px;
+	}
+
+#sidebar #searchsubmit {
+	padding: 1px;
+	}
+
+.entry form { /* This is mainly for password protected posts, makes them look better. */
+	text-align:center;
+	}
+
+select {
+	width: 130px;
+	}
+
+#commentform{
+	width:400px;
+}
+
+#commentform input {
+	width: 170px;
+	padding: 2px;
+	margin: 5px 5px 1px 0;
+	}
+
+#commentform textarea {
+	width: 350px;
+	padding: 2px;
+	}
+
+#commentform #submit {
+	margin: 0;
+	width:65px;
+	height:25px;
+	}
+/* End Form Elements */
+
+
+
+/* Begin Comments*/
+
+h2#comments{
+
+	color:#000;
+	font-weight:normal;
+	font-family:Tahoma, Geneva, sans-serif;
+	background:url(images/bgr_post_title.png) no-repeat left bottom;
+	padding:0 0 15px 0;
+	margin:0 0 10px 25px;
+}
+
+.alt {
+	margin: 0;
+	padding: 10px;
+	}
+
+.commentlist {
+	padding: 0;
+	text-align: justify;
+	margin:0 0 0 25px;
+	}
+
+.commentlist .comment {
+	margin: 15px 0 0 0;
+	padding: 10px 15px 20px 15px;
+	list-style: none;
+	background:#fafafa;
+	border:1px solid #dedede;
+	}
+
+.commentlist .alt {
+	background:#ffffff;
+	}
+
+.commentlist .comment .comment {
+	margin: 15px 15px 15px 15px;
+	padding: 10px 15px 20px 15px;
+	width:auto;
+	}
+
+.commentlist p {
+	margin: 10px 5px 10px 0;
+	line-height:18px;
+	}
+.commentmet_data{
+	width:100%;
+	overflow:hidden;
+}
+.commentmet_data td{
+	vertical-align:top;
+	text-align:left;
+}
+.commentmet_avatar{
+	width:102px;
+	padding:15px 0 0 0;
+}
+.commentmet_text{
+}
+.commentmet_avatar img{
+	border:3px solid #868686;
+}
+
+#commentform p {
+	margin: 5px 0;
+	}
+
+.commentmet_replay{
+	width:100%;
+	overflow:hidden;
+}
+.commentmet_replay a{
+	float:right;
+	display:block;
+	text-indent:-9999px;
+	text-transform:capitalize;
+	background:url(images/button_replay.gif) no-repeat;
+	width:82px;
+	height:27px;
+}
+
+.nocomments {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	}
+
+.commentmetadata {
+	margin: 0;
+	display: block;
+	padding:0 0 5px 0;
+	color:#000;
+
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-transform:capitalize;
+	}
+.commentmetadata a{
+	color:#000;
+}
+.commentmetadata span{
+	color:#000;
+
+}
+
+.commentmet_text{
+
+}
+
+#respond{
+	margin:40px 15px 0 25px;
+	padding:15px;
+	background:#fff;
+}
+
+h3#respond_title{
+
+	color:#000;
+	font-weight:normal;
+	font-family:Tahoma, Geneva, sans-serif;
+	background:url(images/bgr_post_title.png) no-repeat left bottom;
+	padding:0 0 15px 0;
+	margin:0 0 20px 0;
+}
+
+#commentform{
+	margin-left:25px;
+	color:#333;
+
+	width:90%;
+}
+
+#commentform small{
+	position:relative;
+	top:-1px;
+
+}
+
+
+
+label { 
+  color : #7f7f7f; 
+  margin-top : 5px;
+  margin-left : 20px;
+
+}
+
+
+
+input.short {
+  width : 7%;
+}
+
+textbox, textarea { 
+  width : 80%;
+  line-height : 1.5em;
+}
+
+select.med {
+  width : 60%;
+}
+
+input.checkbox {
+  cursor : default;
+  background : transparent;
+  color : #bcbab7;
+  border : 0;
+  padding : 0; 
+  margin : 0;
+  width : 14px;
+  height : 14px;
+}
+
+input.button {
+  cursor : pointer;
+  border : 0;
+  background:url(images/button_submit.gif) no-repeat;
+  width:65px;
+  height:25px;
+  display:block;
+  text-indent:-9999px;
+  text-transform:capitalize;
+  clear:both;
+}
+
+#content #gb_form input.button {
+  margin : 15px 5px 25px 10px;
+  padding : 2px 15px 2px 5px;
+}
+
+* html #content #gb_form input.button {
+  margin-left : 5px;
+}
+
+span.error, span.success, #gb_form_div dt { 
+  color : #cc0000;  
+  font-weight : bold; 
+}
+
+#gb_form_div dt small, #gb_form_div .formhead span.success, span.success, dl#result_dl_blockq dt {
+  color : #bcbab7;
+}
+
+#gb_form_div small.whythis a { 
+
+  text-decoration : none;
+  color : #000;
+}
+#gb_form_div small.whythis a span{ 
+  text-decoration : none;
+  color : #fff;
+}
+#gb_form_div small.whythis a:hover span{ 
+  color : #fff;
+  background:#000;
+}
+
+
+input,  textarea { 
+  color : #4c4c4c; 
+  padding : 3px; 
+  border : solid ;
+  background-color : #eaeaea;
+
+  font-family:Arial, Helvetica, sans-serif;
+  height : auto;
+  margin:0 0 5px 20px;
+  border-width:0 0 1 0;
+}
+
+
+
+
+
+/* End ACCESSITES CSS */
